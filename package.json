@@ -1,0 +1,14 @@
+{
+  "name": "lambda-fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lambda-handler-promise-wrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
+}
