@@ -1,4 +1,4 @@
-# Use Promise-returning handles with Lambda 
+# Use Promise-returning handlers with Lambda 
 
 Just playing around.
 
