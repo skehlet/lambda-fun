@@ -1,6 +1,14 @@
 # Use Promise-returning handlers with Lambda 
 
-Require this library and use it to wrap your promise-returning function to become a lambda handler. Example:
+Require this library and use it to wrap your promise-returning function to make it a lambda handler. 
+
+## npm install
+
+```
+npm install --save https://github.com/skehlet/lambda-handler-promise-wrapper.git
+```
+
+## Usage
 
 ```
 'use strict';
