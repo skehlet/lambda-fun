@@ -1,8 +1,8 @@
 {
-  "name": "lambda-fun",
+  "name": "lambda-handler-promise-wrapper",
   "version": "1.0.0",
   "description": "",
-  "main": "lambda-handler-promise-wrapper.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
